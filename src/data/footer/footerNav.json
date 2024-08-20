@@ -1,0 +1,53 @@
+[
+  {
+    "title": "About",
+    "navLinks": [
+      {
+        "name": "About us",
+        "path": "/about"
+      },
+      {
+        "name": "Shop",
+        "path": "/shop"
+      },
+      {
+        "name": "Blog",
+        "path": "/blog"
+      },
+      {
+        "name": "FAQ",
+        "path": "/faq"
+      },
+      {
+        "name": "Contacts",
+        "path": "/contact"
+      }
+    ]
+  },
+  {
+    "title": "Recent Posts",
+    "navLinks": [
+      {
+        "name": "Top 9 Travel Bag Essentials for Every Adventure",
+        "path": "/blog"
+      },
+      {
+        "name": "How to Choose the Perfect Travel Bag for Your Trip",
+        "path": "/blog"
+      }
+    ]
+  },
+  {
+    "title": "Useful links",
+    "navLinks": [
+      {
+        "name": "Privacy policy",
+        "path": "/privacy"
+      },
+      {
+        "name": "Terms of use",
+        "path": "/terms"
+      }
+    ]
+  }
+]
